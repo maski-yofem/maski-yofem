@@ -31,22 +31,18 @@ Atualmente, sou aluno da formação **Dev em Dobro**, focada em desenvolvimento 
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <a href="https://github.com/maski-yofem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maski-yofem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  </a>
-  <a href="https://github.com/maski-yofem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maski-yofem&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=maski-yofem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maski-yofem&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" height="170" />
 </p>
 
 ---
 
 ### 📫 Vamos trocar uma ideia?
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/max-aleixo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/maski_aleixo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
